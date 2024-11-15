@@ -15,6 +15,15 @@ To block the websites in these lists using \@\iorate's uBlacklist ([docs](https:
 
 Once the blacklists are completed, I will add a masterlist.
 
+## Amazon Affiliate Websites
+
+An inordinate number of amazon affiliate websites are seo spam / ai-generated. This list is my attempt to block a large portion of these.
+
+Use this url to subscribe:
+```
+<link>
+```
+
 ## Spam and Low-quality Programming Websites
 
 
@@ -22,7 +31,6 @@ Use this url to subscribe:
 ```
 <link>
 ```
-
 
 ## Spam and Low-quality Recipe Websites
 
